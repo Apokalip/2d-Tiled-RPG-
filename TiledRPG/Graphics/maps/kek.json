@@ -1,0 +1,63 @@
+{ "height":60,
+ "layers":[
+        {
+         "compression":"zlib",
+         "data":"eJztwQENAAAAwqD3T20PBxQAAAAAAAAAAAAAAAAA8GY4QAAB",
+         "encoding":"base64",
+         "height":60,
+         "name":"Tile Layer 1",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":60,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "height":60,
+         "image":"D:\/map.png",
+         "name":"Image Layer 1",
+         "opacity":1,
+         "type":"imagelayer",
+         "visible":true,
+         "width":60,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "height":60,
+         "image":"..\/TileSets\/treetest.png",
+         "name":"Image Layer 2",
+         "offsetx":451.575757575758,
+         "offsety":204.393939393939,
+         "opacity":1,
+         "type":"imagelayer",
+         "visible":true,
+         "width":60,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "compression":"zlib",
+         "data":"eJztwQENAAAAwqD3T20PBxQAAAAAAAAAAAAAAAAA8GY4QAAB",
+         "encoding":"base64",
+         "height":60,
+         "name":"Tile Layer 2",
+         "offsetx":1,
+         "offsety":-2,
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":60,
+         "x":0,
+         "y":0
+        }],
+ "nextobjectid":1,
+ "orientation":"orthogonal",
+ "renderorder":"right-down",
+ "tileheight":32,
+ "tilesets":[],
+ "tilewidth":32,
+ "version":1,
+ "width":60
+}
